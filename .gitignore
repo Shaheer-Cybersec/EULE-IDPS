@@ -1,0 +1,77 @@
+# ================================
+# Security - Credentials & Secrets
+# ================================
+*.key
+*.pem
+*.crt
+*.csr
+passwords.txt
+wazuh-passwords.txt
+api-keys.txt
+*password*
+*secret*
+*token*
+*credential*
+.env
+
+# ================================
+# Logs & Monitoring Data
+# ================================
+*.log
+logs/
+/var/ossec/logs/
+wazuh-alerts.json
+alerts/
+*.pcap
+
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# ================================
+# IDEs & Editors
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ================================
+# VM Files (Too Large)
+# ================================
+*.vmdk
+*.vmx
+*.vdi
+*.ova
+*.vmem
+*.vmsd
+*.nvram
+
+# ================================
+# Temporary Files
+# ================================
+*.tmp
+*.temp
+*.bak
+*.backup
+.cache/
+
+# ================================
+# OS Generated
+# ================================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
