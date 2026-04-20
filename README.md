@@ -1,5 +1,3 @@
-cat > README.md << 'EOF'
-
 # EULE-IDPS v2.0
 
 **Intrusion Detection and Prevention System**
@@ -176,23 +174,24 @@ EULE-IDPS/
 
 **Phase:** 1 - Foundation Setup  
 **Progress:** In Development  
-**Last Updated:** 2026-04-20
+**Last Updated:** April 2026
 
 ---
 
 ## 👨‍💻 About
 
 **Shaheer Hussain**  
-Cybersecurity Analyst & Penetration Tester
+Cybersecurity Analyst & Penetration Tester  
+Rawalpindi, Pakistan
 
 Security-focused analyst with hands-on experience in Web Application Pentesting, SIEM monitoring, ISO 27001 audits, and network security. Skilled with industry tools like Burp Suite, Nmap, Snort, and Metasploit. Passionate about offensive security and incident response.
 
-**Connect:**
+### Connect
 
-- 🔗 LinkedIn: [linkedin.com/in/shaheer-hussain-cybersec](https://www.linkedin.com/in/shaheer-hussain-cybersec/)
-- 💻 GitHub: [@Shaheer-Cybersec](https://github.com/Shaheer-Cybersec)
-- 🎯 TryHackMe: [Cicada664 - Top 6% Globally](https://tryhackme.com/p/Cicada664)
-- 📧 Email: shaheerch6@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/shaheer-hussain-cybersec](https://www.linkedin.com/in/shaheer-hussain-cybersec/)
+- 💻 **GitHub:** [@Shaheer-Cybersec](https://github.com/Shaheer-Cybersec)
+- 🎯 **TryHackMe:** [Cicada664 - Top 6% Globally](https://tryhackme.com/p/Cicada664)
+- 📧 **Email:** shaheerch6@gmail.com
 
 ---
 
